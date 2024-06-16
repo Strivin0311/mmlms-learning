@@ -147,6 +147,22 @@ citation:
 ```
 
 
+#### Improving Image Generation with Better Captions (DALL-E 3) [`UNREAD`]
+
+paper link: [here](https://cdn.openai.com/papers/dall-e-3.pdf)
+
+blog link: [here](https://www.theverge.com/2023/9/20/23881241/openai-dalle-third-version-generative-ai)
+
+citation:
+
+```bibtex
+@inproceedings{BetkerImprovingIG,
+  title={Improving Image Generation with Better Captions},
+  author={James Betker and Gabriel Goh and Li Jing and † TimBrooks and Jianfeng Wang and Linjie Li and † LongOuyang and † JuntangZhuang and † JoyceLee and † YufeiGuo and † WesamManassra and † PrafullaDhariwal and † CaseyChu and † YunxinJiao and Aditya Ramesh},
+  url={https://api.semanticscholar.org/CorpusID:264403242}
+}
+```
+
 #### Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2308.12966.pdf)
@@ -328,6 +344,48 @@ citation:
       eprint={2204.14198},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
+}
+```
+
+
+#### Hierarchical Text-Conditional Image Generation with CLIP Latents (DALL-E 2) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2204.06125)
+
+updated version: [here](#improving-image-generation-with-better-captions-dall-e-3-unread)
+
+citation:
+
+```bibtex
+@misc{ramesh2022hierarchical,
+      title={Hierarchical Text-Conditional Image Generation with CLIP Latents}, 
+      author={Aditya Ramesh and Prafulla Dhariwal and Alex Nichol and Casey Chu and Mark Chen},
+      year={2022},
+      eprint={2204.06125},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CV' full_name='Computer Vision and Pattern Recognition' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers image processing, computer vision, pattern recognition, and scene understanding. Roughly includes material in ACM Subject Classes I.2.10, I.4, and I.5.'}
+}
+```
+
+
+#### Zero-Shot Text-to-Image Generation (DALL-E) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2102.12092)
+
+blog link: [here](https://openai.com/index/dall-e/)
+
+updated version: [here](#hierarchical-text-conditional-image-generation-with-clip-latents-dall-e-2-unread)
+
+citation:
+
+```bibtex
+@misc{ramesh2021zeroshot,
+      title={Zero-Shot Text-to-Image Generation}, 
+      author={Aditya Ramesh and Mikhail Pavlov and Gabriel Goh and Scott Gray and Chelsea Voss and Alec Radford and Mark Chen and Ilya Sutskever},
+      year={2021},
+      eprint={2102.12092},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CV' full_name='Computer Vision and Pattern Recognition' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers image processing, computer vision, pattern recognition, and scene understanding. Roughly includes material in ACM Subject Classes I.2.10, I.4, and I.5.'}
 }
 ```
 
