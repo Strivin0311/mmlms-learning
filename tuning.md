@@ -60,7 +60,7 @@ github link: [here](https://github.com/haotian-liu/LLaVA)
 
 model-zoo link: [here](https://github.com/haotian-liu/LLaVA/blob/main/docs/MODEL_ZOO.md#llava-v1)
 
-updated version: [here](#improved-baselines-with-visual-instruction-tuning-llava-v15-unread)
+updated version: [here](https://arxiv.org/pdf/2310.03744.pdf)
 
 citation: 
 ```bibtex

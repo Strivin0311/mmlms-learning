@@ -6,6 +6,26 @@
 ## Multi-Modality Alignment Pretraining
 
 
+### OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2406.09399)
+
+github link: [here](https://github.com/FoundationVision/OmniTokenizer)
+
+citation:
+
+```bibtex
+@misc{wang2024omnitokenizerjointimagevideotokenizer,
+      title={OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation}, 
+      author={Junke Wang and Yi Jiang and Zehuan Yuan and Binyue Peng and Zuxuan Wu and Yu-Gang Jiang},
+      year={2024},
+      eprint={2406.09399},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+      url={https://arxiv.org/abs/2406.09399}, 
+}
+```
+
 #### Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2311.08046)
@@ -32,7 +52,7 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2402.03766)
 
-github link: [here](ttps://github.com/Meituan-AutoML/MobileVLM)
+github link: [here](https://github.com/Meituan-AutoML/MobileVLM)
 
 
 citation:
@@ -81,7 +101,7 @@ model links:
 |MobileLLaMA-1.4B-Chat|[here](https://huggingface.co/mtgv/MobileLLaMA-1.4B-Chat)|
 |MobileLLaMA-1.4B-Base|[here](https://huggingface.co/mtgv/MobileLLaMA-1.4B-Base)|
 
-updated version: [here](#mobilevlm-v2-faster-and-stronger-baseline-for-vision-language-model-ldpv2-read)
+updated version: [here](https://arxiv.org/pdf/2402.03766)
 
 
 citation:

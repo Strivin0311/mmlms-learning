@@ -2,6 +2,36 @@
 *Here're some resources about Visual Language Models (VLMs)*
 
 
+#### DeepSeek-VL: Towards Real-World Vision-Language Understanding [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2403.05525)
+
+github link: [here](https://github.com/deepseek-ai/DeepSeek-VL)
+
+model links:
+
+|model name|link|
+|-|-|
+|deepseek-vl-7b-chat|[here](https://huggingface.co/deepseek-ai/deepseek-vl-7b-chat)|
+|deepseek-vl-7b-base|[here](https://huggingface.co/deepseek-ai/deepseek-vl-7b-base)|
+|deepseek-vl-1.3b-chat|[here](https://huggingface.co/deepseek-ai/deepseek-vl-1.3b-chat)|
+|deepseek-vl-1.3b-base|[here](https://huggingface.co/deepseek-ai/deepseek-vl-1.3b-base)|
+
+
+citation:
+```bibtex
+@misc{lu2024deepseekvlrealworldvisionlanguageunderstanding,
+      title={DeepSeek-VL: Towards Real-World Vision-Language Understanding}, 
+      author={Haoyu Lu and Wen Liu and Bo Zhang and Bingxuan Wang and Kai Dong and Bo Liu and Jingxiang Sun and Tongzheng Ren and Zhuoshu Li and Hao Yang and Yaofeng Sun and Chengqi Deng and Hanwei Xu and Zhenda Xie and Chong Ruan},
+      year={2024},
+      eprint={2403.05525},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+      url={https://arxiv.org/abs/2403.05525}, 
+}
+```
+
+
 #### MobileVLM V2: Faster and Stronger Baseline for Vision Language Model (LDPv2) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2402.03766)
@@ -55,7 +85,7 @@ model links:
 |MobileLLaMA-1.4B-Chat|[here](https://huggingface.co/mtgv/MobileLLaMA-1.4B-Chat)|
 |MobileLLaMA-1.4B-Base|[here](https://huggingface.co/mtgv/MobileLLaMA-1.4B-Base)|
 
-updated version: [here](#mobilevlm-v2-faster-and-stronger-baseline-for-vision-language-model-ldpv2-read)
+updated version: [here](https://arxiv.org/pdf/2402.03766)
 
 citation:
 ```bibtex
@@ -272,7 +302,7 @@ model-zoo link: [here](https://github.com/haotian-liu/LLaVA/blob/main/docs/MODEL
 
 dataset-zoo link: [here](https://github.com/haotian-liu/LLaVA/blob/main/docs/Data.md)
 
-updated version: [here](#improved-baselines-with-visual-instruction-tuning-llava-v15-read)
+updated version: [here](https://arxiv.org/pdf/2310.03744.pdf)
 
 citation: 
 ```bibtex
@@ -352,7 +382,7 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2204.06125)
 
-updated version: [here](#improving-image-generation-with-better-captions-dall-e-3-unread)
+updated version: [here](https://cdn.openai.com/papers/dall-e-3.pdf)
 
 citation:
 
@@ -374,7 +404,7 @@ paper link: [here](https://arxiv.org/pdf/2102.12092)
 
 blog link: [here](https://openai.com/index/dall-e/)
 
-updated version: [here](#hierarchical-text-conditional-image-generation-with-clip-latents-dall-e-2-unread)
+updated version: [here](https://arxiv.org/pdf/2204.06125)
 
 citation:
 

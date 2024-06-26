@@ -5,6 +5,26 @@
 ### Multiple Modal
 
 
+#### VideoLLaMA 2- Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2406.07476)
+
+github link: [here](https://github.com/DAMO-NLP-SG/VideoLLaMA2)
+
+citation:
+
+```bibtex
+@misc{cheng2024videollama2advancingspatialtemporal,
+      title={VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs}, 
+      author={Zesen Cheng and Sicong Leng and Hang Zhang and Yifei Xin and Xin Li and Guanzheng Chen and Yongxin Zhu and Wenqi Zhang and Ziyang Luo and Deli Zhao and Lidong Bing},
+      year={2024},
+      eprint={2406.07476},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+      url={https://arxiv.org/abs/2406.07476}, 
+}
+```
+
 #### Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2311.08046)
@@ -49,6 +69,8 @@ citation:
 paper link: [here](https://arxiv.org/pdf/2311.10122)
 
 github link: [here](https://github.com/PKU-YuanGroup/Video-LLaVA)
+
+updated version: [here](https://arxiv.org/pdf/2406.07476)
 
 
 citation:

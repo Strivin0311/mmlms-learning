@@ -106,7 +106,7 @@ github link: [here](https://github.com/AILab-CVC/SEED-Bench)
 
 dataset link: [here](https://huggingface.co/datasets/AILab-CVC/SEED-Bench-2)
 
-updated version: [here](#seed-bench-2-plus-benchmarking-multimodal-large-language-models-with-text-rich-visual-comprehension-unread)
+updated version: [here](https://arxiv.org/pdf/2404.16790)
 
 citation:
 ```bibtex
@@ -129,7 +129,7 @@ github link: [here](https://github.com/Q-Future/Q-Bench)
 
 dataset link: [LLVisionQA](https://huggingface.co/datasets/teowu/LLVisionQA-QBench) | [LLDescribe](https://huggingface.co/datasets/teowu/LLDescribe-QBench)
 
-updated version: [here](#a-benchmark-for-multi-modal-foundation-models-on-low-level-vision-from-single-images-to-pairs-q-bench-unread)
+updated version: [here](https://arxiv.org/pdf/2402.07116)
 
 citation:
 ```bibtex
@@ -152,7 +152,7 @@ github link: [here](https://github.com/AILab-CVC/SEED-Bench)
 
 dataset link: [here](https://huggingface.co/datasets/AILab-CVC/SEED-Bench)
 
-updated version: [here](#seed-bench-2-benchmarking-multimodal-large-language-models-unread)
+updated version: [here](https://arxiv.org/pdf/2311.17092)
 
 citation:
 ```bibtex
