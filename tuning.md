@@ -1,7 +1,27 @@
 # Finetuning Strategies for Multimodal Large Language Models
 *Here're some resources about how to finetune MMLMs*
 
+## Video Post Tuning
 
+#### ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2406.14130v1)
+
+github link: [here](https://github.com/modelscope/DiffSynth-Studio)
+
+citation:
+
+```bibtex
+@misc{duan2024exvideoextendingvideodiffusion,
+      title={ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning}, 
+      author={Zhongjie Duan and Wenmeng Zhou and Cen Chen and Yaliang Li and Weining Qian},
+      year={2024},
+      eprint={2406.14130},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2406.14130}, 
+}
+```
 
 
 ## Visual Instruction Tuning
