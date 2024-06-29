@@ -403,7 +403,7 @@ blog link: [here](https://sh-tsang.medium.com/review-flamingo-a-visual-language-
 
 github link: [here](https://github.com/lucidrains/flamingo-pytorch)
 
-open-source variants: [idefics](#introducing-idefics-an-open-reproduction-of-state-of-the-art-visual-language-model-idefics-read) | [open-flamingo](#openflamingo-an-open-source-framework-for-training-large-autoregressive-vision-language-models-read)
+open-source variants: [idefics](https://huggingface.co/blog/idefics) | [open-flamingo](https://arxiv.org/pdf/2308.01390)
 
 citation: 
 ```bibtex
