@@ -4,7 +4,7 @@
 
 ## Survey
 
-#### A Survey on Multimodal Large Language Models [`READ`]
+#### A Survey on Multimodal Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2306.13549)
 
@@ -24,7 +24,7 @@ citation:
 ## Empirical Study
 
 
-#### A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise [`UNREAD`]
+#### A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise
 
 paper link: [here](https://arxiv.org/pdf/2312.12436)
 
@@ -43,7 +43,7 @@ citation:
 ```
 
 
-#### Reproducible scaling laws for contrastive language-image learning (OpenCLIP) [`UNREAD`]
+#### Reproducible scaling laws for contrastive language-image learning (OpenCLIP)
 
 paper link: [here](https://arxiv.org/abs/2212.07143)
 

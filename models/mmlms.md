@@ -5,7 +5,7 @@
 ### Multiple Modal
 
 
-#### VideoLLaMA 2- Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs [`UNREAD`]
+#### VideoLLaMA 2- Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs
 
 paper link: [here](https://arxiv.org/pdf/2406.07476)
 
@@ -25,7 +25,7 @@ citation:
 }
 ```
 
-#### Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding [`UNREAD`]
+#### Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding
 
 paper link: [here](https://arxiv.org/pdf/2311.08046)
 
@@ -47,7 +47,7 @@ citation:
 ### Video Modal
 
 
-#### CAST: Cross-Attention in Space and Time for Video Action Recognition [`UNREAD`]
+#### CAST: Cross-Attention in Space and Time for Video Action Recognition
 
 paper link: [here](https://arxiv.org/pdf/2311.18825.pdf)
 
@@ -64,7 +64,7 @@ citation:
 ```
 
 
-#### Video-LLaVA: Learning United Visual Representation by Alignment Before Projection [`UNREAD`]
+#### Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
 
 paper link: [here](https://arxiv.org/pdf/2311.10122)
 
@@ -83,7 +83,7 @@ citation:
 }
 ```
 
-#### Free-bloom: Zero-shot text-to-video generator with llm director and ldm animator [`UNREAD`]
+#### Free-bloom: Zero-shot text-to-video generator with llm director and ldm animator
 
 paper link: [here](https://arxiv.org/pdf/2309.14494)
 
@@ -98,7 +98,7 @@ citation:
 ```
 
 
-#### Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models [`UNREAD`]
+#### Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models
 
 paper link: [here](https://arxiv.org/pdf/2306.05424)
 
@@ -120,7 +120,7 @@ citation:
 
 ### Audio Modal
 
-#### Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models [`UNREAD`]
+#### Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models
 
 paper link: [here](https://arxiv.org/pdf/2311.07919.pdf)
 

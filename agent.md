@@ -2,7 +2,7 @@
 *Here're some resources about MMLMs-as-Agents*
 
 
-#### CogAgent: A Visual Language Model for GUI Agents [`UNREAD`]
+#### CogAgent: A Visual Language Model for GUI Agents
 
 paper link: [here](https://arxiv.org/abs/2312.08914)
 

@@ -7,7 +7,7 @@
 ## Visual Reasoning
 
 
-#### Visual programming: Compositional visual reasoning without training [`READ`]
+#### Visual programming: Compositional visual reasoning without training
 
 paper link: [here](https://arxiv.org/pdf/2211.11559)
 

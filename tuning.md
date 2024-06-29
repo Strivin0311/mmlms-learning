@@ -3,7 +3,7 @@
 
 ## Video Post Tuning
 
-#### ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning [`UNREAD`]
+#### ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning
 
 paper link: [here](https://arxiv.org/pdf/2406.14130v1)
 
@@ -27,7 +27,7 @@ citation:
 ## Visual Instruction Tuning
 
 
-#### MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning [`UNREAD`]
+#### MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning
 
 paper link: [here](https://arxiv.org/pdf/2311.10774)
 
@@ -49,7 +49,7 @@ citation:
 ```
 
 
-#### Improved Baselines with Visual Instruction Tuning (LLaVA-v1.5) [`UNREAD`]
+#### Improved Baselines with Visual Instruction Tuning (LLaVA-v1.5)
 
 paper link: [here](https://arxiv.org/pdf/2310.03744.pdf)
 
@@ -70,7 +70,7 @@ citation:
 }
 ```
 
-#### Visual instruction tuning (LLaVA) [`READ`]
+#### Visual instruction tuning (LLaVA)
 
 paper link: [here](https://arxiv.org/pdf/2304.08485)
 
@@ -93,7 +93,7 @@ citation:
 ```
 
 
-#### OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework [`READ`]
+#### OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework
 
 paper link: [here](https://arxiv.org/pdf/2202.03052)
 

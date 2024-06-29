@@ -6,7 +6,7 @@
 ## Multi-Modality Alignment Pretraining
 
 
-### OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation [`UNREAD`]
+### OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation
 
 paper link: [here](https://arxiv.org/pdf/2406.09399)
 
@@ -26,7 +26,7 @@ citation:
 }
 ```
 
-#### Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding [`UNREAD`]
+#### Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding
 
 paper link: [here](https://arxiv.org/pdf/2311.08046)
 
@@ -48,7 +48,7 @@ citation:
 ## Image-Text Alignment Pretraining
 
 
-#### MobileVLM V2: Faster and Stronger Baseline for Vision Language Model (LDPv2) [`READ`]
+#### MobileVLM V2: Faster and Stronger Baseline for Vision Language Model (LDPv2)
 
 paper link: [here](https://arxiv.org/pdf/2402.03766)
 
@@ -66,7 +66,7 @@ citation:
 ```
 
 
-#### MoE-LLaVA: Mixture of Experts for Large Vision-Language Models (MoE-Tuning) [`READ`]
+#### MoE-LLaVA: Mixture of Experts for Large Vision-Language Models (MoE-Tuning)
 
 paper link: [here](https://arxiv.org/pdf/2401.15947)
 
@@ -88,7 +88,7 @@ citation:
 ```
 
 
-#### MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices (LDP) [`READ`]
+#### MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices (LDP)
 
 paper link: [here](https://arxiv.org/pdf/2312.16886)
 
@@ -115,7 +115,7 @@ citation:
 ```
 
 
-#### CogVLM: Visual Expert for Pretrained Language Models [`READ`]
+#### CogVLM: Visual Expert for Pretrained Language Models
 
 paper link: [here](https://arxiv.org/pdf/2311.03079.pdf)
 
@@ -141,7 +141,7 @@ citation:
 ```
 
 
-#### BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models (Q-Former) [`READ`]
+#### BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models (Q-Former)
 
 paper link: [here](https://arxiv.org/pdf/2301.12597)
 
@@ -161,7 +161,7 @@ citation:
 ```
 
 
-#### Reproducible scaling laws for contrastive language-image learning (OpenCLIP) [`UNREAD`]
+#### Reproducible scaling laws for contrastive language-image learning (OpenCLIP)
 
 paper link: [here](https://arxiv.org/abs/2212.07143)
 
@@ -182,7 +182,7 @@ citation:
 ```
 
 
-#### OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework [`READ`]
+#### OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework
 
 paper link: [here](https://arxiv.org/pdf/2202.03052)
 
@@ -203,7 +203,7 @@ citation:
 ```
 
 
-#### Learning transferable visual models from natural language supervision (CLIP) [`READ`]
+#### Learning transferable visual models from natural language supervision (CLIP)
 
 paper link: [here](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf)
 
@@ -224,7 +224,7 @@ citation:
 
 ## Video-Text Alignment Pretraining
 
-#### LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment [`UNREAD`]
+#### LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment
 
 paper link: [here](https://arxiv.org/pdf/2310.01852)
 

@@ -5,7 +5,7 @@
 ### Video Multi-Tasks
 
 
-#### Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models [`UNREAD`]
+#### Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2311.16103)
 
@@ -30,7 +30,7 @@ citation:
 ### Visual Multi-Tasks
 
 
-#### SEED-Bench-2-Plus: Benchmarking Multimodal Large Language Models with Text-Rich Visual Comprehension [`UNREAD`]
+#### SEED-Bench-2-Plus: Benchmarking Multimodal Large Language Models with Text-Rich Visual Comprehension
 
 paper link: [here](https://arxiv.org/pdf/2404.16790)
 
@@ -52,7 +52,7 @@ citation:
 ```
 
 
-#### Are We on the Right Way for Evaluating Large Vision-Language Models? (MMStar) [`UNREAD`]
+#### Are We on the Right Way for Evaluating Large Vision-Language Models? (MMStar)
 
 paper link: [here](https://arxiv.org/pdf/2403.20330)
 
@@ -76,7 +76,7 @@ citation:
 ```
 
 
-#### A Benchmark for Multi-modal Foundation Models on Low-level Vision: from Single Images to Pairs (Q-Bench+) [`UNREAD`]
+#### A Benchmark for Multi-modal Foundation Models on Low-level Vision: from Single Images to Pairs (Q-Bench+)
 
 paper link: [here](https://arxiv.org/pdf/2402.07116)
 
@@ -98,7 +98,7 @@ citation:
 ```
 
 
-#### SEED-Bench-2: Benchmarking Multimodal Large Language Models [`UNREAD`]
+#### SEED-Bench-2: Benchmarking Multimodal Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2311.17092)
 
@@ -121,7 +121,7 @@ citation:
 ```
 
 
-#### Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision [`UNREAD`]
+#### Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision
 
 paper link: [here](https://arxiv.org/pdf/2309.14181)
 
@@ -144,7 +144,7 @@ citation:
 ```
 
 
-#### SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension [`UNREAD`]
+#### SEED-Bench: Benchmarking Multimodal LLMs with Generative Comprehension
 
 paper link: [here](https://arxiv.org/pdf/2307.16125)
 
@@ -167,7 +167,7 @@ citation:
 ```
 
 
-#### MMBench: Is Your Multi-modal Model an All-around Player? [`UNREAD`]
+#### MMBench: Is Your Multi-modal Model an All-around Player?
 
 paper link: [here](https://arxiv.org/pdf/2307.06281)
 
@@ -188,7 +188,7 @@ citation:
 ```
 
 
-#### MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models [`UNREAD`]
+#### MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2306.13394)
 
@@ -213,7 +213,7 @@ citation:
 ### Visual Question Answering (VQA)
 
 
-#### MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities [`UNREAD`]
+#### MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities
 
 paper link: [here](https://arxiv.org/pdf/2308.02490)
 
@@ -232,7 +232,7 @@ citation:
 }
 ```
 
-#### Visual instruction tuning (LLaVA-Bench) [`READ`]
+#### Visual instruction tuning (LLaVA-Bench)
 
 paper link: [here](https://arxiv.org/pdf/2304.08485)
 
@@ -254,7 +254,7 @@ citation:
 
 
 
-#### Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering (ScienceQA) [`UNREAD`]
+#### Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering (ScienceQA)
 
 paper link: [here](https://arxiv.org/pdf/2209.09513)
 
@@ -277,7 +277,7 @@ citation:
 ```
 
 
-#### VizWiz Grand Challenge: Answering Visual Questions from Blind People (VizWiz) [`UNREAD`]
+#### VizWiz Grand Challenge: Answering Visual Questions from Blind People (VizWiz)
 
 paper link: [here](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gurari_VizWiz_Grand_Challenge_CVPR_2018_paper.pdf)
 
@@ -298,7 +298,7 @@ citation:
 ```
 
 
-#### Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering (VQA) [`UNREAD`]
+#### Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering (VQA)
 
 paper link: [here](https://arxiv.org/pdf/1612.00837)
 
@@ -324,7 +324,7 @@ citation:
 ### Hallucination Probing
 
 
-#### HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models [`UNREAD`]
+#### HallusionBench: An Advanced Diagnostic Suite for Entangled Language Hallucination and Visual Illusion in Large Vision-Language Models
 
 paper link: [here](https://arxiv.org/pdf/2310.14566)
 
@@ -345,7 +345,7 @@ citation:
 ```
 
 
-#### POPE: Polling-based Object Probing Evaluation for Object Hallucination (POPE) [`UNREAD`]
+#### POPE: Polling-based Object Probing Evaluation for Object Hallucination (POPE)
 
 paper link: [here](https://arxiv.org/pdf/2305.10355)
 

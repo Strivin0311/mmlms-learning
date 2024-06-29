@@ -1,7 +1,7 @@
 # Visual Language Models (VLMs)
 *Here're some resources about Visual Language Models (VLMs)*
 
-#### 4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities [`UNREAD`]
+#### 4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities
 
 paper link: [here](https://arxiv.org/pdf/2406.09406v2)
 
@@ -21,7 +21,7 @@ citation:
 }
 ```
 
-#### Hunyuan-DiT- A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding [`UNREAD`]
+#### Hunyuan-DiT- A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
 
 paper link: [here](https://arxiv.org/pdf/2405.08748)
 
@@ -42,7 +42,7 @@ citation:
 ```
 
 
-#### DeepSeek-VL: Towards Real-World Vision-Language Understanding [`UNREAD`]
+#### DeepSeek-VL: Towards Real-World Vision-Language Understanding
 
 paper link: [here](https://arxiv.org/pdf/2403.05525)
 
@@ -72,7 +72,7 @@ citation:
 ```
 
 
-#### MobileVLM V2: Faster and Stronger Baseline for Vision Language Model (LDPv2) [`READ`]
+#### MobileVLM V2: Faster and Stronger Baseline for Vision Language Model (LDPv2)
 
 paper link: [here](https://arxiv.org/pdf/2402.03766)
 
@@ -90,7 +90,7 @@ citation:
 ```
 
 
-#### MoE-LLaVA: Mixture of Experts for Large Vision-Language Models [`READ`]
+#### MoE-LLaVA: Mixture of Experts for Large Vision-Language Models
 
 paper link: [here](https://arxiv.org/pdf/2401.15947)
 
@@ -112,7 +112,7 @@ citation:
 ```
 
 
-#### MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices (LDP) [`READ`]
+#### MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices (LDP)
 
 paper link: [here](https://arxiv.org/pdf/2312.16886)
 
@@ -138,7 +138,7 @@ citation:
 ```
 
 
-#### ShareGPT4V: Improving Large Multi-Modal Models with Better Captions [`READ`]
+#### ShareGPT4V: Improving Large Multi-Modal Models with Better Captions
 
 paper link: [here](https://arxiv.org/pdf/2311.03079.pdf)
 
@@ -169,7 +169,7 @@ citation:
 ```
 
 
-#### CogVLM: Visual Expert for Pretrained Language Models [`READ`]
+#### CogVLM: Visual Expert for Pretrained Language Models
 
 paper link: [here](https://arxiv.org/pdf/2311.03079.pdf)
 
@@ -195,7 +195,7 @@ citation:
 ```
 
 
-#### Improved Baselines with Visual Instruction Tuning (LLaVA-v1.5) [`READ`]
+#### Improved Baselines with Visual Instruction Tuning (LLaVA-v1.5)
 
 paper link: [here](https://arxiv.org/pdf/2310.03744.pdf)
 
@@ -217,7 +217,7 @@ citation:
 ```
 
 
-#### Improving Image Generation with Better Captions (DALL-E 3) [`UNREAD`]
+#### Improving Image Generation with Better Captions (DALL-E 3)
 
 paper link: [here](https://cdn.openai.com/papers/dall-e-3.pdf)
 
@@ -233,7 +233,7 @@ citation:
 }
 ```
 
-#### Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond [`READ`]
+#### Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond
 
 paper link: [here](https://arxiv.org/pdf/2308.12966.pdf)
 
@@ -261,7 +261,7 @@ citation:
 ```
 
 
-#### Introducing IDEFICS: An Open Reproduction of State-of-the-Art Visual Language Model (IDEFICS) [`READ`]
+#### Introducing IDEFICS: An Open Reproduction of State-of-the-Art Visual Language Model (IDEFICS)
 
 blog link: [here](https://huggingface.co/blog/idefics)
 
@@ -290,7 +290,7 @@ citation:
 ```
 
 
-#### OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models [`READ`]
+#### OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models
 
 paper link: [here](https://arxiv.org/pdf/2308.01390)
 
@@ -309,7 +309,7 @@ citation:
 ```
 
 
-#### MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models [`UNREAD`]
+#### MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2304.10592)
 
@@ -330,7 +330,7 @@ citation:
 ```
 
 
-#### Visual instruction tuning (LLaVA) [`READ`]
+#### Visual instruction tuning (LLaVA)
 
 paper link: [here](https://arxiv.org/pdf/2304.08485)
 
@@ -355,7 +355,7 @@ citation:
 ```
     
 
-#### BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models (Q-Former) [`READ`]
+#### BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models (Q-Former)
 
 paper link: [here](https://arxiv.org/pdf/2301.12597)
 
@@ -375,7 +375,7 @@ citation:
 ```
 
 
-#### Visual programming: Compositional visual reasoning without training [`READ`]
+#### Visual programming: Compositional visual reasoning without training
 
 paper link: [here](https://arxiv.org/pdf/2211.11559)
 
@@ -395,7 +395,7 @@ citation:
 ```
 
 
-#### Flamingo: a Visual Language Model for Few-Shot Learning [`READ`]
+#### Flamingo: a Visual Language Model for Few-Shot Learning
 
 paper link: [here](https://arxiv.org/pdf/2204.14198)
 
@@ -418,7 +418,7 @@ citation:
 ```
 
 
-#### Hierarchical Text-Conditional Image Generation with CLIP Latents (DALL-E 2) [`UNREAD`]
+#### Hierarchical Text-Conditional Image Generation with CLIP Latents (DALL-E 2)
 
 paper link: [here](https://arxiv.org/pdf/2204.06125)
 
@@ -438,7 +438,7 @@ citation:
 ```
 
 
-#### Zero-Shot Text-to-Image Generation (DALL-E) [`UNREAD`]
+#### Zero-Shot Text-to-Image Generation (DALL-E)
 
 paper link: [here](https://arxiv.org/pdf/2102.12092)
 
@@ -460,7 +460,7 @@ citation:
 ```
 
 
-#### Learning transferable visual models from natural language supervision (CLIP) [`READ`]
+#### Learning transferable visual models from natural language supervision (CLIP)
 
 paper link: [here](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf)
 

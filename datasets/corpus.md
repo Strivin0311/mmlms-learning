@@ -5,7 +5,7 @@
 
 ## Image-Caption Pretraining
 
-#### ShareGPT4V: Improving Large Multi-Modal Models with Better Captions [`READ`]
+#### ShareGPT4V: Improving Large Multi-Modal Models with Better Captions
 
 paper link: [here](https://arxiv.org/pdf/2311.03079.pdf)
 
@@ -29,7 +29,7 @@ citation:
 ```
 
 
-#### Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts (CC12M) [`UNREAD`]
+#### Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts (CC12M)
 
 paper link: [here](https://arxiv.org/pdf/2102.08981)
 
@@ -50,7 +50,7 @@ citation:
 ```
 
 
-#### Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning (CC3M) [`UNREAD`]
+#### Conceptual Captions: A Cleaned, Hypernymed, Image Alt-text Dataset For Automatic Image Captioning (CC3M)
 
 paper link: [here](https://aclanthology.org/P18-1238.pdf)
 
@@ -86,7 +86,7 @@ citation:
 ## Visual Instruction Finetuning (V-IFT)
 
 
-#### Visual instruction tuning (LLaVA-Instruct) [`READ`]
+#### Visual instruction tuning (LLaVA-Instruct)
 
 paper link: [here](https://arxiv.org/pdf/2304.08485)
 
