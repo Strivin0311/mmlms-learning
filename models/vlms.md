@@ -1,6 +1,33 @@
 # Visual Language Models (VLMs)
 *Here're some resources about Visual Language Models (VLMs)*
 
+
+#### Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs
+
+paper link: [here](https://arxiv.org/pdf/2406.16860v1)
+
+github link: [here](https://github.com/cambrian-mllm/cambrian)
+
+homepage link: [here](https://cambrian-mllm.github.io/)
+
+model link: [here](https://huggingface.co/nyu-visionx/)
+
+dataset link: [Cambrian-10M](https://huggingface.co/datasets/nyu-visionx/Cambrian-10M) | [CV-Bench](https://huggingface.co/datasets/nyu-visionx/CV-Bench)
+
+citation:
+
+```bibtex
+@misc{tong2024cambrian1fullyopenvisioncentric,
+      title={Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs}, 
+      author={Shengbang Tong and Ellis Brown and Penghao Wu and Sanghyun Woo and Manoj Middepogu and Sai Charitha Akula and Jihan Yang and Shusheng Yang and Adithya Iyer and Xichen Pan and Austin Wang and Rob Fergus and Yann LeCun and Saining Xie},
+      year={2024},
+      eprint={2406.16860},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2406.16860}, 
+}
+```
+
 #### 4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities
 
 paper link: [here](https://arxiv.org/pdf/2406.09406v2)
