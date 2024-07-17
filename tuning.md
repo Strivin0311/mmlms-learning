@@ -3,6 +3,27 @@
 
 ## Video Post Tuning
 
+
+#### SEED-Story: Multimodal Long Story Generation with Large Language Model
+
+paper link: [here](https://arxiv.org/pdf/2407.08683v1)
+
+github link: [here](https://github.com/tencentarc/seed-story)
+
+citation:
+
+```bibtex
+@misc{yang2024seedstorymultimodallongstory,
+      title={SEED-Story: Multimodal Long Story Generation with Large Language Model}, 
+      author={Shuai Yang and Yuying Ge and Yang Li and Yukang Chen and Yixiao Ge and Ying Shan and Yingcong Chen},
+      year={2024},
+      eprint={2407.08683},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.08683}, 
+}
+```
+
 #### ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning
 
 paper link: [here](https://arxiv.org/pdf/2406.14130v1)
@@ -26,6 +47,45 @@ citation:
 
 ## Visual Instruction Tuning
 
+#### MAVIS: Mathematical Visual Instruction Tuning
+
+paper link: [here](https://arxiv.org/pdf/2407.08739v1)
+
+github link: [here](https://github.com/zrrskywalker/mavis)
+
+citation:
+
+```bibtex
+@misc{zhang2024mavismathematicalvisualinstruction,
+      title={MAVIS: Mathematical Visual Instruction Tuning}, 
+      author={Renrui Zhang and Xinyu Wei and Dongzhi Jiang and Yichi Zhang and Ziyu Guo and Chengzhuo Tong and Jiaming Liu and Aojun Zhou and Bin Wei and Shanghang Zhang and Peng Gao and Hongsheng Li},
+      year={2024},
+      eprint={2407.08739},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.08739}, 
+}
+```
+
+#### ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation
+
+paper link: [here](https://arxiv.org/pdf/2407.06135v1)
+
+github link: [here](https://github.com/gair-nlp/anole)
+
+citation:
+
+```bibtex
+@misc{chern2024anoleopenautoregressivenative,
+      title={ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation}, 
+      author={Ethan Chern and Jiadi Su and Yan Ma and Pengfei Liu},
+      year={2024},
+      eprint={2407.06135},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.06135}, 
+}
+```
 
 #### MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning
 

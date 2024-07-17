@@ -224,6 +224,7 @@ citation:
 
 ## Video-Text Alignment Pretraining
 
+
 #### LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment
 
 paper link: [here](https://arxiv.org/pdf/2310.01852)

@@ -4,6 +4,27 @@
 
 ## Survey
 
+
+#### A Comprehensive Survey on Human Video Generation: Challenges, Methods, and Insights
+
+paper link: [here](https://arxiv.org/pdf/2407.08428v1)
+
+github link: [here](https://github.com/wentaol86/awesome-human-body-video-generation)
+
+citation:
+
+```bibtex
+@misc{lei2024comprehensivesurveyhumanvideo,
+      title={A Comprehensive Survey on Human Video Generation: Challenges, Methods, and Insights}, 
+      author={Wentao Lei and Jinting Wang and Fengji Ma and Guanjie Huang and Li Liu},
+      year={2024},
+      eprint={2407.08428},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.08428}, 
+}
+```
+
 #### A Survey on Multimodal Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2306.13549)
